@@ -4,4 +4,9 @@ Normes identificateurs
 - nom des méthodes: somme et non Somme
 - nom des constantes: TAXES et taxes
 
+Normes méthodes
+- méthode reçoit en arguments les données qu'elle utilise
+- méthode ne fait jamais de sout ou de scan
+- un argument tableau est une référence sur une structure tableau (adresse)
+
 
