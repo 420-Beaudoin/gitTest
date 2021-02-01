@@ -9,4 +9,4 @@ Normes méthodes
 - méthode ne fait jamais de sout ou de scan
 - un argument tableau est une référence sur une structure tableau (adresse)
 
-
+FIN
